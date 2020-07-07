@@ -1,0 +1,14 @@
+{
+  "producers": [
+    {
+      "id": 1,
+      "name": "James Cameron"
+    }
+  ],
+  "films": [
+    {
+      "name": "Titanic",
+      "id": 1
+    }
+  ]
+}
